@@ -9,4 +9,15 @@ Here you can find the code for the the Arduino.
 - [x] change the color of each cell (led) individually
 - [x] delete the entire matrix (shortcut to turn off the leds)
 
-### Equipment
+### Materials
+* Arduino UNO;
+* WS2812B Strip LED
+* Bluetooth Module HC-05
+* 1k resistors (x2)
+* Jumper wire
+* Bread board
+* Solder kit
+* Wire
+* Power Supply 5V/5A
+* Wood to build the matrix frame
+* Diffuser acrylic
